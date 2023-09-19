@@ -1,0 +1,12 @@
+[submodule "deps/redis-plus-plus"]
+	path = deps/redis-plus-plus
+	url = https://github.com/sewenew/redis-plus-plus
+[submodule "deps/libpqxx"]
+	path = deps/libpqxx
+	url = https://github.com/jtv/libpqxx
+[submodule "deps/CLI11"]
+	path = deps/CLI11
+	url = https://github.com/CLIUtils/CLI11
+[submodule "deps/thread-pool"]
+	path = deps/thread-pool
+	url = https://github.com/bshoshany/thread-pool
